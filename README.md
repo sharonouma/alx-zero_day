@@ -1,2 +1,1 @@
-My first readme
-my first repository
+My first readme file to create
